@@ -4,7 +4,7 @@
 
 I'm a 3rd-year Diploma student in Electronics and Communication Engineering.
 
-I work on electronics and embedded systems projects and enjoy learning through hands-on practice.
+I work on electronics and embedded systems projects, VLSI projects and enjoy learning through hands-on practice.
 
 ## Currently Learning
 
@@ -12,6 +12,7 @@ I work on electronics and embedded systems projects and enjoy learning through h
 * Microcontrollers
 * Digital Electronics
 * PWM
+* IoT
 
 ## Programming
 
@@ -25,9 +26,12 @@ I work on electronics and embedded systems projects and enjoy learning through h
 * Microcontrollers
 * IoT & Sensors
 * Firmware Development
+* VLSI 
 
 ## Projects
 
-
+* Kitchen Safety Monitoring System
+* Kitchen Safety Monitoring with Blynk (Throught WIFI)
+* Parking Slot Detection
 
 
