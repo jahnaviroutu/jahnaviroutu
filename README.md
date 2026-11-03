@@ -32,6 +32,8 @@ I work on electronics and embedded systems projects, VLSI projects and enjoy lea
 
 * Kitchen Safety Monitoring System
 * Kitchen Safety Monitoring with Blynk (Throught WIFI)
-* Parking Slot Detection
+* Smart Parking Slot Detection
+* Smart-DayNight-Indicator-with-Auto-Night-Light
+* 
 
 
